@@ -1,6 +1,6 @@
 # TicketMaster - Event Search & Recommendation
 
-Check the [demo video](https://youtu.be/msj-LDX2R4Q).
+Check the demo video(TBD).
 
 # Tech Stacks:
 **Front-end**: HTML, CSS, JS\
